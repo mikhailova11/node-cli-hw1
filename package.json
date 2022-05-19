@@ -1,0 +1,30 @@
+{
+  "name": "cli-hw1",
+  "version": "1.0.0",
+  "description": "Крок 1",
+  "main": "index.js",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "commander": "^9.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16",
+    "eslint": "^8.15.0",
+    "prettier": "^2.6.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikhailova11/node-cli-hw1.git"
+  },
+  "author": "Lena Mihailova <m@mail.ua>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikhailova11/node-cli-hw1/issues"
+  },
+  "homepage": "https://github.com/mikhailova11/node-cli-hw1#readme"
+}
